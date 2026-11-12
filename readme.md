@@ -1,6 +1,7 @@
 # Mon premier projet Git
 
 Je modifie cette ligne depuis master.
+Je modifie cette ligne depuis test-conflit.
 
 Mon premier projet avec Git !
 
