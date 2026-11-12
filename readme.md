@@ -1,6 +1,6 @@
 # Mon premier projet Git
 
-Je travaille actuellement sur la branche master.
+Je modifie cette ligne depuis master.
 
 Mon premier projet avec Git !
 
